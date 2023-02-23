@@ -1,1 +1,1 @@
-# tugas
+Tugas ini sebagai contoh
